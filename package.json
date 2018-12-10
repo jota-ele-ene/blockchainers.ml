@@ -1,0 +1,23 @@
+{
+  "name": "Blockchainers",
+  "version": "1.0.0",
+  "description": "El lugar donde compartimos noticias y contenidos que a nosotros nos parecen relevantes relacionadas con Blockchain y este cryptomundo que nos tiene tan enganchados.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jota-ele-ene/blockchainers.ml.git"
+  },
+  "keywords": [
+    "blockchain",
+    "codesandbox"
+  ],
+  "author": "Blockchainers Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jota-ele-ene/blockchainers.ml/issues"
+  },
+  "homepage": "http://blockchainerscommunity.org/"
+}
